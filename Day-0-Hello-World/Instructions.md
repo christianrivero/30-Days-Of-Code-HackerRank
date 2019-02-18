@@ -16,7 +16,7 @@ A single line of text denoting inputString (the variable whose contents must be 
 **Output Format**
 
 | Print Hello, World. on the first line, and the contents of inputString on the second line.  |
-| ------------------------------------------------------------------------------------------- |
+|--|
 
 **Sample Input**
 
@@ -25,6 +25,7 @@ Welcome to 30 Days of Code!
 **Sample Output**
 
 Hello, World. 
+
 Welcome to 30 Days of Code!
 
 **Explanation**
