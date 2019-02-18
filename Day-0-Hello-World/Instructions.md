@@ -15,9 +15,13 @@ A single line of text denoting inputString (the variable whose contents must be 
 
 **Output Format**
 
- 	```
+```
+A
+```
 
-Este es un ejemplo de un bloque de código.
+```
+
+A
 
 ```
 
