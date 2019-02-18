@@ -17,7 +17,6 @@ A single line of text denoting inputString (the variable whose contents must be 
 **NOTE**
 
 It works with almost all markdown flavours (the below blank line matters).
-
 ---
 
 **Output Format**
