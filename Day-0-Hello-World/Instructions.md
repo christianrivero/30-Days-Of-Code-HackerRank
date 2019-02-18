@@ -13,15 +13,11 @@ You've got this!
 
 A single line of text denoting inputString (the variable whose contents must be printed).
 
----
-**NOTE**
-
-It works with almost all markdown flavours (the below blank line matters).
----
-
 **Output Format**
 
+```
 Print Hello, World. on the first line, and the contents of inputString on the second line.
+```
 
 **Sample Input**
 
