@@ -15,10 +15,7 @@ A single line of text denoting inputString (the variable whose contents must be 
 
 **Output Format**
 
-```
-A
-```
-
+"código en línea".
 
 **Sample Input**
 
