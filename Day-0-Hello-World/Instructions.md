@@ -15,8 +15,10 @@ A single line of text denoting inputString (the variable whose contents must be 
 
 **Output Format**
 
-```
-Print Hello, World. on the first line, and the contents of inputString on the second line.
+ 	```
+
+Este es un ejemplo de un bloque de código.
+
 ```
 
 **Sample Input**
