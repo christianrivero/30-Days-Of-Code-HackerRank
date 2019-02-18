@@ -15,7 +15,9 @@ A single line of text denoting inputString (the variable whose contents must be 
 
 **Output Format**
 
-    ~~ código en línea ~~
+~~~
+Esto es un párrafo de código.
+~~~
 
 **Sample Input**
 
