@@ -16,7 +16,6 @@ A single line of text denoting inputString (the variable whose contents must be 
 **Output Format**
 
 | Print Hello, World. on the first line, and the contents of inputString on the second line.  |
-|---|
 
 **Sample Input**
 
