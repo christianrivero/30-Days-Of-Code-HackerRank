@@ -19,11 +19,6 @@ A single line of text denoting inputString (the variable whose contents must be 
 A
 ```
 
-```
-
-A
-
-```
 
 **Sample Input**
 
