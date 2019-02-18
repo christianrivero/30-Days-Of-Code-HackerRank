@@ -24,8 +24,8 @@ Print Hello, World. on the first line, and the contents of inputString on the se
 
 **Sample Output**
 
-| Hello, World. |
-|  |
+| Hello, World.               |
+|                             |
 | Welcome to 30 Days of Code! |
 |--|
 **Explanation**
