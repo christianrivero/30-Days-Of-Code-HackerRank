@@ -10,6 +10,6 @@ Trujillo ~ Perú
 
 Solution to the daily challenge from **"30 Days of Code"** *by* **HackerRank**
 
-Programming Languages: Java, C++, Python, C# and JavaScript.
+Programming Languages: Java, C++, Python, C#, Scala and JavaScript.
 
 Link: https://www.hackerrank.com/domains/tutorials/30-days-of-code
