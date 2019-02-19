@@ -2,7 +2,7 @@
 
 Author: Christian Rivero Valencia.
 
-GitHub: ** *christianrivero* **
+GitHub: ***christianrivero***
 
 email: ch.riverov10@gmail.com
 
