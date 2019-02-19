@@ -8,7 +8,7 @@ email: ch.riverov10@gmail.com
 
 Trujillo - Perú
 
-Solution to the daily challenge from "30 Days of Code" by HackerRank
+Solution to the daily challenge from **"30 Days of Code"** *by* **HackerRank**
 
 Programming Languages: Java, C++, Python, C# and JavaScript.
 
